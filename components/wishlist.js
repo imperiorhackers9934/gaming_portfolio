@@ -42,7 +42,7 @@ const Wishlist = () => {
     <motion.div id='wishlist' className='font-bold text-4xl flex bg-black'>Wishlist</motion.div>
     <div className='w-fit px-2 flex flex-wrap bg-black h-min overflow-hidden'>
       {fetched.map((elem)=>{
-        return <Card id={elem.name} img={elem.img} name={elem.name} key={elem.name}/>
+        return <Card id={elem.name} img={elem.img} name={elem.name} desc={elem.desc} key={elem.name}/>
       })}
     </div>
 </InfiniteScroll>
