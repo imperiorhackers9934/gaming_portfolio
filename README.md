@@ -1,40 +1,66 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# Tanishq Mishra's Gaming Portfolio
 
-## Getting Started
+Welcome to my gaming portfolio! This repository showcases my journey in the gaming world, including the titles I've played, my current engagements, and my future gaming aspirations.
 
-First, run the development server:
+## Overview
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+- **Total Titles Played:** 23
+- **Wishlist Titles:** 11
+- **Player Level:** Rookie
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## Currently Playing
 
-You can start editing the page by modifying `pages/index.js`. The page auto-updates as you edit the file.
+### Grand Theft Auto IV
 
-[API routes](https://nextjs.org/docs/api-routes/introduction) can be accessed on [http://localhost:3000/api/hello](http://localhost:3000/api/hello). This endpoint can be edited in `pages/api/hello.js`.
+![Grand Theft Auto IV](https://gamingportfolio-tanishq-mishras-projects.vercel.app/images/gta4.jpg)
 
-The `pages/api` directory is mapped to `/api/*`. Files in this directory are treated as [API routes](https://nextjs.org/docs/api-routes/introduction) instead of React pages.
+*Grand Theft Auto IV* is a 2008 action-adventure game developed by Rockstar North and published by Rockstar Games. Set in the fictional Liberty City, the game follows Eastern European war veteran Niko Bellic as he navigates the criminal underworld while attempting to escape his past.
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+**Key Features:**
 
-## Learn More
+- Open-world exploration in a richly detailed city.
+- Engaging storyline with complex characters.
+- Variety of missions and side activities.
+- Online multiplayer mode supporting up to 32 players.
 
-To learn more about Next.js, take a look at the following resources:
+## Titles Played
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+Here are some of the games I've enjoyed playing:
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+1. **The Witcher 3: Wild Hunt**
+   - An immersive open-world RPG with a captivating storyline and complex characters.
 
-## Deploy on Vercel
+2. **Red Dead Redemption 2**
+   - A Western-themed action-adventure game with a vast open world and rich narrative.
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+3. **Cyberpunk 2077**
+   - A futuristic open-world RPG set in the vibrant Night City.
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+*...and many more!*
+
+## Wishlist
+
+I'm looking forward to playing these titles in the future:
+
+- **Elden Ring**
+  - An upcoming action RPG collaboration between FromSoftware and George R.R. Martin.
+
+- **Starfield**
+  - Bethesda's highly anticipated space exploration RPG.
+
+- **The Legend of Zelda: Breath of the Wild 2**
+  - The sequel to the critically acclaimed open-world adventure game.
+
+## Connect with Me
+
+I'm always open to discussions, collaborations, and co-op gaming sessions. Feel free to reach out!
+
+- **Email:** [2k23.cs2313608@gmail.com](mailto:2k23.cs2313608@gmail.com)
+- **LinkedIn:** [Tanishq Mishra's LinkedIn](https://www.linkedin.com/in/tanishq-mishra9936)
+- **GitHub:** [imperiorhackers9934](https://github.com/imperiorhackers9934)
+
+Let's play and grow together in the gaming community!
+
+---
+
+*This README was generated based on the information available on my [gaming portfolio website](https://gamingportfolio-tanishq-mishras-projects.vercel.app/).*
