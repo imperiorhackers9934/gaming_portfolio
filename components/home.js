@@ -48,7 +48,7 @@ const Homepage = () => {
               className='rounded-full w-1/2 sm:w-1/5'
               alt="Profile"
             />
-            <p className='text-4xl font-medium text-center sm:text-left my-3 sm:w-min'>Gamer9936</p>
+            <p className='text-4xl font-medium text-center sm:text-left my-3 sm:w-min'>Imperior9936</p>
           </motion.div>
           
           {/* Cards section */}
@@ -88,7 +88,7 @@ const Homepage = () => {
           {/* Fixed Typed.js section */}
           <br/>
           <div className='shower my-6'>
-          <p className='text-3xl mx-auto flex'>Lets Play&nbsp;<GiColtM1911 size={50}/>&nbsp;<span className='font-bold rounded-lg' ref={el}></span></p>
+          <p className='text-3xl font-semibold mx-auto flex'>Lets Play&nbsp;<GiColtM1911 size={50}/>&nbsp;<span className='font-bold rounded-lg' ref={el}></span></p>
         </div>
         </div>
       </div>

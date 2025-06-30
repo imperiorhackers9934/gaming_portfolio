@@ -85,6 +85,16 @@ exports.arr = [
         desc: "L.A. Noire is a 2011 action-adventure game developed by Team Bondi and published by Rockstar Games. Set in 1947 Los Angeles, the game follows the rise of detective Cole Phelps among the ranks of the Los Angeles Police Department as he solves a range of cases across various bureaus. When he is tasked with investigating a morphine distribution ring involving several of his former squadmates from World War II, Phelps finds both his personal and professional life falling into turmoil, and reluctantly joins forces with his estranged former comrade, Jack Kelso, as they uncover a major conspiracy involving prominent Los Angeles figures."
     },
     {
+        name: "Kamla",
+        img: "https://m.media-amazon.com/images/I/41RuI1c6SVL._SX300_SY300_QL70_FMwebp_.jpg",
+        desc: "Kamla is a first-person survival horror game developed by Pune-based Mad Mantra Games, initially released for Windows on May 7, 2024, and later for Android and iOS in early 2025 . The game is set in 1980s rural India and follows a tantrik (priest) summoned to an eerie mansion to exorcise a demon possessing a newlywed woman named Kamla"
+    },
+    {
+        name: "Far Cry 3",
+        img: "https://upload.wikimedia.org/wikipedia/en/c/c6/Far_Cry_3_PAL_box_art.jpg",
+        desc: "Far Cry 3 is a 2012 first-person shooter game developed by Ubisoft Montreal and published by Ubisoft. It is the third main installment in the Far Cry series after Far Cry 2. The game takes place on the fictional Rook Islands, a tropical archipelago which can be freely explored by players. Gameplay focuses on combat and exploration. Players can use a variety of weapons to defeat human enemies and hostile wildlife, and the game features elements found in role-playing games such as skill trees and experience. After a vacation goes awry, protagonist Jason Brody must save his friends, who have been kidnapped by pirates, and escape from the island and its unhinged inhabitants."
+    },
+    {
         name: "Halo: Combat Evolved",
         img: "https://upload.wikimedia.org/wikipedia/en/thumb/8/80/Halo_-_Combat_Evolved_%28XBox_version_-_box_art%29.jpg/220px-Halo_-_Combat_Evolved_%28XBox_version_-_box_art%29.jpg",
         desc: "Halo: Combat Evolved is a 2001 first-person shooter video game developed by Bungie and published by Microsoft Game Studios for the Xbox. It was released as a launch game for Microsoft's Xbox video game console on November 15, 2001. The game was ported to Microsoft Windows and Mac OS X in 2003. It was later released as a downloadable Xbox Original for the Xbox 360. Halo is set in the twenty-sixth century, with the player assuming the role of the Master Chief, a cybernetically enhanced supersoldier. The Chief is accompanied by Cortana, an artificial intelligence. Players battle aliens as they attempt to uncover the secrets of the eponymous Halo, a ring-shaped artificial world."
